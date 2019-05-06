@@ -1,0 +1,7 @@
+julia 1
+PyPlot
+Optim
+Distributions
+ForwardDiff
+KernelDensity
+ 
